@@ -3,7 +3,7 @@ Resources to be used on github repositories such as images, buttons, emojis, des
 
 ## 1️⃣ Custom matching deploy buttons
 
-<img src="https://raw.githubusercontent.com/PockySweet/repo-resources/main/buttons/HerokuDeploy.svg" alt="Deploy" height="40"> <img src="https://raw.githubusercontent.com/PockySweet/repo-resources/main/buttons/RailwayDeploy.svg" alt="Deploy on Railway" height="40"> <img src="https://raw.githubusercontent.com/PockySweet/repo-resources/main/buttons/GoogleDeploy.svg" alt="Deploy on Google Cloud" height="40">
+<img src="https://raw.githubusercontent.com/PockySweet/repo-resources/main/buttons/HerokuDeploy.svg" alt="Deploy" height="40"> <img src="https://raw.githubusercontent.com/PockySweet/repo-resources/main/buttons/RailwayDeploy.svg" alt="Deploy on Railway" height="40"> <img src="https://raw.githubusercontent.com/PockySweet/repo-resources/main/buttons/GoogleDeploy.svg" alt="Deploy on Google Cloud" height="40"> <img src="https://raw.githubusercontent.com/PockySweet/repo-resources/main/buttons/ReplitDeploy.svg" alt="Deploy on Repl.it" height="40">
 
 ## 2️⃣ Commit message emojis
 See also [gitmoji](https://gitmoji.carloscuesta.me/).
